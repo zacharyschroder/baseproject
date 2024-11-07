@@ -1,11 +1,10 @@
 import './App.css'
+import Navbar from './components/Navbar'
 
 function App() {
   return (
     <>
-    Features
-    Pricing
-    Resources
+    <Navbar />
 
     Login
     Sign Up
